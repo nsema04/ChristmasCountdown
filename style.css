@@ -1,6 +1,6 @@
 /* General styles for the page */
 body {
-    background: linear-gradient(135deg, #ffafbd, #ffc3a0);
+    background: linear-gradient(135deg, #ffafaf, #ffc3a0);
     font-family: 'Comic Sans MS', sans-serif;
     color: #fff;
     margin: 0;
@@ -14,7 +14,7 @@ body {
 /* Container that wraps everything */
 .container {
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(13, 149, 77, 0.7);
     padding: 40px;
     border-radius: 20px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
