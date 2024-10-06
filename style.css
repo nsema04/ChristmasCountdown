@@ -1,0 +1,85 @@
+/* General styles for the page */
+body {
+    background: linear-gradient(135deg, #ffafbd, #ffc3a0);
+    font-family: 'Comic Sans MS', sans-serif;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Container that wraps everything */
+.container {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
+    max-width: 600px;
+    width: 100%;
+}
+
+/* Header with title */
+.header h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+    color: #ffeb3b;
+    text-shadow: 2px 2px 4px #000;
+}
+
+/* Countdown box styling */
+.countdown-box {
+    background-color: #d32f2f;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.countdown-box h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #fff;
+    font-weight: bold;
+}
+
+#countdown {
+    font-size: 2.5em;
+    color: #ffeb3b;
+    font-weight: bold;
+    margin: 10px 0;
+    text-shadow: 1px 1px 4px #000;
+}
+
+/* Message box styling */
+.message-box {
+    background-color: #388e3c;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.message-box h2 {
+    font-size: 1.5em;
+    color: #fff;
+}
+
+#daily-message {
+    font-size: 1.2em;
+    color: #fff;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+/* Footer (optional) */
+footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #ffeb3b;
+}
