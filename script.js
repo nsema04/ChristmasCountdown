@@ -65,3 +65,4 @@ function showDailyMessage() {
 // Call the countdown and message functions
 setInterval(countdownToChristmas, 1000);
 showDailyMessage();
+
