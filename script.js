@@ -1,6 +1,6 @@
 // Countdown Timer
 function countdownToChristmas() {
-    const christmasDate = new Date('December 24, 2024 00:00:00').getTime();
+    const christmasDate = new Date('December 25, 2024 00:00:00').getTime();
     const now = new Date().getTime();
     const difference = christmasDate - now;
 
