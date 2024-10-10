@@ -23,7 +23,7 @@ const dailyMessages = [
     "October 7: It's gonna be an amazing week baby, I always believe in you!",
     "October 8: You are my favorite person, always and forever Miss Apple Pie!",
     "October 9: I can't wait to come to NWT with you, I think about it often :)",
-    "October 10: I am the luckiest man in the world to be with Hillary Huynh",
+    "October 10: Hey Hillary, are you today's date? Because you're a 10/10!",
     "October 11: I love how you brought me around the penisula, I had a fun float!",
     "October 12: I will always fill up your brita, my love. Whenever you need me to.",
     "October 13: You are gonna do so good in all of your classes, I know it!",
