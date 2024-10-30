@@ -45,6 +45,15 @@ const dailyMessages = [
     "October 29: If I could, I would code you absolutely anything you wanted in the world.",
     "October 30: Halloween is tommorrow, our first Halloween! So exciting!! I love you!",
     "October 31: BOO! Happy Halloween beautiful girl I love you sooooooo much, I can't wait to costume up!",
+    "November 1: It's November! That means Christmas is getting closer! I love you and have a great Friday pookie!",
+    "November 2: Today we are decorating the Christmas Tree! I hope you're feeling jolly my love!",
+    "November 3: You are the most beautiful woman in the universe and I am the luckiest man in the universe :D",
+    "November 4: Have I ever told you that I can't wait to marry you? I really can't wait I am so excited hehehehe",
+    "November 5: I can't believe it's already November 5 time flies so fast, you probably look gorgeous today baby",
+    "November 6: Happy hump day baby! You are the most talented woman in the universe and I hope you know it!",
+    "November 7: I miss the Future concert so much, I hope we can go to another concert some time baby :)"
+    "November 8: We should make soup, get cozy, and watch tv all day together some time. That sounds very relaxing.",
+    "November 9: Happy Saturday pookie, remember to get some rest today! You are so perfect and I love you with every piece of my heart",
     "December 24: Can’t wait to see your beautiful smile tomorrow!",
     "December 25: Merry Christmas! You're my most wonderful gift!"
 ];
