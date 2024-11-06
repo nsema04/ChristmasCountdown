@@ -72,7 +72,8 @@ function showDailyMessage() {
     }
 }
 
-// Call the countdown and message functions
+// Call the countdown function every second
 setInterval(countdownToChristmas, 1000);
-showDailyMessage();
 
+// Display the daily message once when the page loads
+showDailyMessage();
