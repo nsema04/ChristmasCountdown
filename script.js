@@ -55,6 +55,9 @@ const dailyMessages = [
     "November 8: We should make soup, get cozy, and watch tv all day together some time. That sounds very relaxing.",
     "November 9: Happy Saturday pookie, remember to get some rest today! You are so perfect and I love you with every piece of my heart",
     "November 10: I will always be there by your side Baby, I am your biggest fan. I cant wait till we are rich!",
+    "November 11: You are my smarty pants, I am always astounded by how smart you are Hillary. You are going places!",
+    "November 12: I am so in love with you, you occupy my mind every second of every day Hillary<3",
+    "November 13: You are so gorgeous I can't even begin to describe how beautiful you are. I am obsessed with you.",
     "December 24: Can’t wait to see your beautiful smile tomorrow!",
     "December 25: Merry Christmas! You're my most wonderful gift!"
 ];
