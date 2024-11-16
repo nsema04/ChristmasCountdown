@@ -58,6 +58,15 @@ const dailyMessages = [
     "November 11: You are my smarty pants, I am always astounded by how smart you are Hillary. You are going places!",
     "November 12: I am so in love with you, you occupy my mind every second of every day Hillary<3",
     "November 13: You are so gorgeous I can't even begin to describe how beautiful you are. I am obsessed with you.",
+    "November 14: I love you with all of my heart Hill, you are my bestest friend forever!",
+    "November 15: Thank you for always being so understanding and supportive, you are the most caring girl I know :)",
+    "November 16: Happy Weekend! Reading week is almost over and it's time to grind to Christmas! We can do it!",
+    "November 17: Have I ever told you that you are hands-down the most beautiful girl in the entire world?",
+    "November 18: I think you're the most talented crafter in the universe!",
+    "November 19: It is gonna be a great Tuesday baby, I know it! I love you!",
+    "November 20: Happy hump day! I hope I can hump you today!",
+    "November 21: You are perfection. I am so lucky. YOU ARE SO BEAUTIFUL!",
+    "November 22: It's Friday!! We made it through the week! Good job baby!!!!!",
     "December 24: Can’t wait to see your beautiful smile tomorrow!",
     "December 25: Merry Christmas! You're my most wonderful gift!"
 ];
