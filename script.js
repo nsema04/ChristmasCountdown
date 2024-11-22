@@ -67,6 +67,12 @@ const dailyMessages = [
     "November 20: Happy hump day! I hope I can hump you today!",
     "November 21: You are perfection. I am so lucky. YOU ARE SO BEAUTIFUL!",
     "November 22: It's Friday!! We made it through the week! Good job baby!!!!!",
+    "November 23: It's Saturday! You worked so hard this week and I am so proud of you my beautiful angel, keep grinding so hard!",
+    "November 24: Babygirl you make me the happiest man in the world, I feel so thankful that you are mine forever :)",
+    "November 25: You have a sparkle in your eyes like no one else, you are so special my sweet angel❤️",
+    "November 26: I'd let you braid my hair any day baby, you make me feel so safe and taken care of!",
+    "November 27: It's almost December, I can't wait to eat our advent calender chocolate together every day Baby!",
+    "November 28: You are the most gorgeous, beautiful, angelic, jaw-dropping woman I have ever seen in my life, and I am so in love with you!",
     "December 24: Can’t wait to see your beautiful smile tomorrow!",
     "December 25: Merry Christmas! You're my most wonderful gift!"
 ];
