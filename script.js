@@ -74,6 +74,7 @@ const dailyMessages = [
     "November 27: It's almost December, I can't wait to eat our advent calender chocolate together every day Baby!",
     "November 28: You are the most gorgeous, beautiful, angelic, jaw-dropping woman I have ever seen in my life, and I am so in love with you!",
     "November 29: Happy Friday beautiful, we have one more week of semester one left! You have worked so hard I am so proud of you always❤️",
+    "November 30: It's Elf night! I hope you're feeling jolly today baby!!! I can't wait for our night❤️",
     "December 24: Can’t wait to see your beautiful smile tomorrow!",
     "December 25: Merry Christmas! You're my most wonderful gift!"
 ];
