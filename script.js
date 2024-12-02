@@ -76,6 +76,7 @@ const dailyMessages = [
     "November 29: Happy Friday beautiful, we have one more week of semester one left! You have worked so hard I am so proud of you always❤️",
     "November 30: It's Elf night! I hope you're feeling jolly today baby!!! I can't wait for our night❤️",
     "December 1: Happy first of December! Let's enjoy our Christmas Calenders together today 😁❤️",
+    "December 2: First Monday of December Baby! I can't belive it will be 9 months AND Christmas so soon! Have an amazing start to the week Angel!",
     "December 24: Can’t wait to see your beautiful smile tomorrow!",
     "December 25: Merry Christmas! You're my most wonderful gift!"
 ];
