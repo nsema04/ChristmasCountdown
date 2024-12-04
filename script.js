@@ -78,6 +78,7 @@ const dailyMessages = [
     "December 1: Happy first of December! Let's enjoy our Christmas Calenders together today 😁❤️",
     "December 2: First Monday of December Baby! I can't belive it will be 9 months AND Christmas so soon! Have an amazing start to the week Angel!",
     "December 3: At the end of the day, my favourite gift on Christmas will always be the love that you give me baby ❤️",
+    "December 4: Happy hump day Baby! We are sooo close to being done classes and I can feel a sleepover on the horizon😁❤️",
     "December 24: Can’t wait to see your beautiful smile tomorrow!",
     "December 25: Merry Christmas! You're my most wonderful gift!"
 ];
