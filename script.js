@@ -81,6 +81,7 @@ const dailyMessages = [
     "December 4: Happy hump day Baby! We are sooo close to being done classes and I can feel a sleepover on the horizon😁❤️",
     "December 5: 20 days till Christmas! And even less days until OUR Christmas 😁 I love this time of year, but I love you even more pookie pear 🍐",
     "December 6: Happy Friday Angel! I can't wait to see you tonight, it will be the best part of the whole week!❤️❤️❤️",
+    "December 7: It's Polar Express Night!!! I love that yoy want to be at our movie nights❤️",
     "December 24: Can’t wait to see your beautiful smile tomorrow!",
     "December 25: Merry Christmas! You're my most wonderful gift!"
 ];
