@@ -83,6 +83,7 @@ const dailyMessages = [
     "December 6: Happy Friday Angel! I can't wait to see you tonight, it will be the best part of the whole week!❤️❤️❤️",
     "December 7: It's Polar Express Night!!! I love that yoy want to be at our movie nights❤️",
     "December 8: Thank you for always having my back baby, it means more than you know, and I will always have yours❤️",
+    "December 9: Happy monday baby!!! It's the start of the week, and it's gonna be an amazing week! I love you❤️",
     "December 24: Can’t wait to see your beautiful smile tomorrow!",
     "December 25: Merry Christmas! You're my most wonderful gift!"
 ];
