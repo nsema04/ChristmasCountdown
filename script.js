@@ -85,6 +85,7 @@ const dailyMessages = [
     "December 8: Thank you for always having my back baby, it means more than you know, and I will always have yours❤️",
     "December 9: Happy monday baby!!! It's the start of the week, and it's gonna be an amazing week! I love you❤️",
     "December 10: Baby we are so close to our Christmas! Just keep working so hard, and you will always succeed❤️",
+    "December 11: Christmas is slowly creeping up!! You are the most beautiful woman in the world and I want to give you the world❤️",
     "December 24: Can’t wait to see your beautiful smile tomorrow!",
     "December 25: Merry Christmas! You're my most wonderful gift!"
 ];
