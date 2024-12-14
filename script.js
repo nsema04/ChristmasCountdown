@@ -88,6 +88,7 @@ const dailyMessages = [
     "December 11: Christmas is slowly creeping up!! You are the most beautiful woman in the world and I want to give you the world❤️",
     "December 12: I am deeply obsessed with you and everything you do is so attractive and perfect. I feel so lucky all the time pookie pear❤️",
     "December 13: You have the most beautiful eyes in the world, and there is nothing I would rather do than stare into them❤️",
+    "December 14: We are so close to Hoah Christmas AND nine months!!! So many milestones, we are working so hard baby!",
     "December 24: Can’t wait to see your beautiful smile tomorrow!",
     "December 25: Merry Christmas! You're my most wonderful gift!"
 ];
