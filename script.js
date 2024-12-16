@@ -90,6 +90,7 @@ const dailyMessages = [
     "December 13: You have the most beautiful eyes in the world, and there is nothing I would rather do than stare into them❤️",
     "December 14: We are so close to Hoah Christmas AND nine months!!! So many milestones, we are working so hard baby!",
     "December 15: Happy Nine Months baby!!! There is no one else I could depend on this much, you have my entire heart❤️",
+    "December 16: Baby we are so close to being done finals! Hoah Christmas tomorrow! I cannot wait I am so so excited Angel❤️",
     "December 24: Can’t wait to see your beautiful smile tomorrow!",
     "December 25: Merry Christmas! You're my most wonderful gift!"
 ];
