@@ -94,6 +94,7 @@ const dailyMessages = [
     "December 17: HAPPY HOAH CHRISTMAS!!! Baby you finished your last final and we can celebrate tonight! I love you and I am forever proud of you❤️",
     "December 18: Hi Baby! I had so much fun at Hoah Christmas, thank you for all of your wonderful gifts! You know me so well my pookie pear🍐❤️",
     "December 19: Baby you are flying to see your family today! I love you so much and I will miss you greatly, but I cannot wait for new years!❤️",
+    "December 20: Baby you are home! I hope you had a great sleep after your travel day, I miss you so much already!❤️🍐",
     "December 24: Can’t wait to see your beautiful smile tomorrow!",
     "December 25: Merry Christmas! You're my most wonderful gift!"
 ];
