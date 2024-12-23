@@ -97,6 +97,7 @@ const dailyMessages = [
     "December 20: Baby you are home! I hope you had a great sleep after your travel day, I miss you so much already!❤️🍐",
     "December 21: Happy Saturday Baby! You worked so hard and sold so much yesterday, I am so proud of you! Make sure to get some rest beautiful🥰❤️",
     "December 22: Hi Baby I hope you have been having a great time at home! Christmas is so soon! Make sure to tell all your family I say hi!❤️",
+    "December 23: My girlfriend is the biggest hustler in the world because SHE GOT INTO MCGILL LAW (11% ACCEPTANCE RATE) 🙌🙌🏆",
     "December 24: Can’t wait to see your beautiful smile tomorrow!",
     "December 25: Merry Christmas! You're my most wonderful gift!"
 ];
