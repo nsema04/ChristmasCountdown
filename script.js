@@ -99,7 +99,7 @@ const dailyMessages = [
     "December 22: Hi Baby I hope you have been having a great time at home! Christmas is so soon! Make sure to tell all your family I say hi!❤️",
     "December 23: My girlfriend is the biggest hustler in the world because SHE GOT INTO MCGILL LAW (11% ACCEPTANCE RATE) 🙌🙌🏆",
     "December 24: MERRY CHRISTMAS EVE BABY! I love you so so much, and I miss you so so much. It's our first of many Christmases together!🥹❤️",
-    "December 25: Merry Christmas! You're my most wonderful gift!"
+    "December 25: Merry Christmas Pookie Pear!❤️❤️ You are the most precious gift of all, I miss you so much baby🍐❤️"
 ];
 
 // Function to display the daily message
